@@ -16,4 +16,4 @@ const issue: RegexIssue = {
 };
 
 export default issue;
-  
+   
